@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\lenovo\onedrive\desktop\snakegame\snakegame\main.cpp
+	<iostream>
+
+1728821353 source:c:\users\lenovo\onedrive\desktop\snakegame\snakegame\snakegame.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+
